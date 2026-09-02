@@ -1,0 +1,14 @@
+{
+  "name": "Profession Classes",
+  "description": "Add profession-based classes with leveling system and crafting restrictions",
+  "version": "1.0.0",
+  "loaderVersion": "[1,)",
+  "license": "MIT",
+  "authors": ["kazuskot"],
+  "contact": {
+    "issues": "https://github.com/kazuskot/profession-classes-mod/issues",
+    "sources": "https://github.com/kazuskot/profession-classes-mod"
+  },
+  "logoFile": "icon.png",
+  "credits": ""
+}
