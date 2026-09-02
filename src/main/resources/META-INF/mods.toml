@@ -1,0 +1,7 @@
+{
+  "modLoaderVersion": "[1,)",
+  "license": "MIT",
+  "showAsResourcePack": false,
+  "issueTrackerURL": "https://github.com/kazuskot/profession-classes-mod/issues",
+  "modIcon": "assets/profession_classes/icon.png"
+}
