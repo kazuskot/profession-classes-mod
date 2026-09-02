@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "item/handheld",
+    "textures": {
+      "layer0": "#layer0"
+    }
+  },
+  "variants": {
+    "inventory": [
+      { "textures": { "layer0": "profession_classes:item/empty" } }
+    ]
+  }
+}
